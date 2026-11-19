@@ -1,0 +1,6 @@
+{
+  "name": "StoryPad",
+  "description": "Multilingual story-pattern notebook using mathematical NLP formulas (no AI) to detect narrative drift, split new stories into separate blocks, and animate the wall behind the words from light beige to deep charcoal, with offline mode, auto-save, search, dark mode, and Gemini TTS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
